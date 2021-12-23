@@ -1,6 +1,6 @@
-# barter_app01
+# flutter_application_technic1
 
-A new Flutter application.
+A new Flutter project.
 
 ## Getting Started
 
